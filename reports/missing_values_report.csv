@@ -1,0 +1,38 @@
+Column,Data_Type,Null_Count,Null_Percentage,Select_Placeholder_Count,Select_Percentage,Total_Missing_Or_Select_Count,Total_Missing_Or_Select_Pct,Unique_Values_Count
+Prospect ID,str,0,0.0,0,0.0,0,0.0,9240
+Lead Number,int64,0,0.0,0,0.0,0,0.0,9240
+Lead Origin,str,0,0.0,0,0.0,0,0.0,5
+Lead Source,str,36,0.39,0,0.0,36,0.39,21
+Do Not Email,str,0,0.0,0,0.0,0,0.0,2
+Do Not Call,str,0,0.0,0,0.0,0,0.0,2
+Converted,int64,0,0.0,0,0.0,0,0.0,2
+TotalVisits,float64,137,1.48,0,0.0,137,1.48,41
+Total Time Spent on Website,int64,0,0.0,0,0.0,0,0.0,1731
+Page Views Per Visit,float64,137,1.48,0,0.0,137,1.48,114
+Last Activity,str,103,1.11,0,0.0,103,1.11,17
+Country,str,2461,26.63,0,0.0,2461,26.63,38
+Specialization,str,1438,15.56,1942,21.02,3380,36.58,19
+How did you hear about X Education,str,2207,23.89,5043,54.58,7250,78.46,10
+What is your current occupation,str,2690,29.11,0,0.0,2690,29.11,6
+What matters most to you in choosing a course,str,2709,29.32,0,0.0,2709,29.32,3
+Search,str,0,0.0,0,0.0,0,0.0,2
+Magazine,str,0,0.0,0,0.0,0,0.0,1
+Newspaper Article,str,0,0.0,0,0.0,0,0.0,2
+X Education Forums,str,0,0.0,0,0.0,0,0.0,2
+Newspaper,str,0,0.0,0,0.0,0,0.0,2
+Digital Advertisement,str,0,0.0,0,0.0,0,0.0,2
+Through Recommendations,str,0,0.0,0,0.0,0,0.0,2
+Receive More Updates About Our Courses,str,0,0.0,0,0.0,0,0.0,1
+Tags,str,3353,36.29,0,0.0,3353,36.29,26
+Lead Quality,str,4767,51.59,0,0.0,4767,51.59,5
+Update me on Supply Chain Content,str,0,0.0,0,0.0,0,0.0,1
+Get updates on DM Content,str,0,0.0,0,0.0,0,0.0,1
+Lead Profile,str,2709,29.32,4146,44.87,6855,74.19,6
+City,str,1420,15.37,2249,24.34,3669,39.71,7
+Asymmetrique Activity Index,str,4218,45.65,0,0.0,4218,45.65,3
+Asymmetrique Profile Index,str,4218,45.65,0,0.0,4218,45.65,3
+Asymmetrique Activity Score,float64,4218,45.65,0,0.0,4218,45.65,12
+Asymmetrique Profile Score,float64,4218,45.65,0,0.0,4218,45.65,10
+I agree to pay the amount through cheque,str,0,0.0,0,0.0,0,0.0,1
+A free copy of Mastering The Interview,str,0,0.0,0,0.0,0,0.0,2
+Last Notable Activity,str,0,0.0,0,0.0,0,0.0,16
