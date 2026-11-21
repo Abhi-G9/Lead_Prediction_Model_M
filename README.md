@@ -268,15 +268,3 @@ python -m unittest discover tests
 
 ---
 
-## 17. Presentation & Interview Quick-Reference (For BCA Students)
-
-| Question | Recommended Answer |
-|---|---|
-| *"Why didn't you use Tags or Lead Quality?"* | "Because they are assigned by sales agents *after* outreach calls. Using them causes target leakage, yielding artificial 95% accuracy that collapses when predicting genuinely new leads." |
-| *"Why Random Forest over Logistic Regression?"* | "Random Forest achieved higher ROC-AUC (0.862 vs 0.851), higher precision (77.7% vs 76.2%), and superior probability calibration without overfitting (CV accuracy within 1.7% of test)." |
-| *"What is the strongest conversion signal?"* | "Total Time Spent on Website (+123.5% longer for converting leads) and Working Professional occupation (91.6% conversion rate)." |
-| *"How are missing values handled?"* | "Numerical features use median imputation; unselected dropdowns ('Select') are mapped to an explicit 'Not Specified' category; no customer rows were deleted." |
-
----
-
-*Lead Intelligence Platform • Senior Machine Learning & Software Engineering Project • Created November 2026*
